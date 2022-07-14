@@ -1,1 +1,6 @@
 # fcc-tribute-page
+
+Just making this repos for fcc projects, because I dont like inbuilt text editor...
+
+Don`t liek the projects either, becauze they tell me what to do...
+vut I guess it`s usefull sometimes, if you don`t get whats going on

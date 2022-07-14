@@ -1,0 +1,67 @@
+#main{background-color: rgb(163, 163, 163);
+margin:30px 0px 20px 0px ;
+
+}
+
+
+
+
+#image {display: block;
+max-width: 100%;
+height:auto;
+margin:auto;
+}
+
+
+#title{font-size: 34px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+font-weight: 900;
+display: flex;
+justify-content: center;
+padding-top: 50px;
+}
+
+p{
+font-size: 18px;
+display:flex;
+justify-content:center;
+padding-bottom:20px;
+color:rgb(48, 1, 48);
+}
+
+#img-div{display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+gap: 40px;
+background-color: white;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+margin:10px;
+}
+
+#img-caption{font-size: 18px;
+font-style: italic;
+}
+
+h2 {text-align: center;
+font-size: 20px;
+padding-bottom: 30px;}
+
+li{ width:500px;}
+
+ul{display: flex;
+flex-direction: column;
+align-items: center;}
+
+#qoute {padding-left: 80px;
+color:rgb(161, 121, 121);
+font-style: italic;
+}
+
+.link{text-align: center;
+font-size: 20px;
+font-weight: 500;
+padding-bottom: 30px;
+}
