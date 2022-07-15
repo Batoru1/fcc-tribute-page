@@ -25,9 +25,8 @@ btw i use visual studio code and import it to fcc
 
 photo -Ben Zinner, USAID - http://www.usaid.gov/; source; exact image URL
 
-So the solution was to put the image in a wrapper so the wrapper is  flex item, but the image itself is not....LOL
+So the solution was to put the #image in a wrapper (div class=hack /div) so the wrapper is  flex item, but the image itself is not....LOL
 
-//<div class=hack><img id="image" src="/*imagelink*/></div>//
 
     thanks to: admit8490 from fcc forums ;):
     
