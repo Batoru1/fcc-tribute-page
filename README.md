@@ -1,6 +1,6 @@
 # fcc-tribute-page
 
-Just making this repos for fcc projects, but I dont like inbuilt text editor...
+Just making these repos for fcc projects, but I dont like inbuilt text editor...
 
 Now I use visual studio code and import it to fcc
 
@@ -30,4 +30,4 @@ So the solution was to put the #image in a wrapper (div class=hack /div) so the 
     
    https://forum.freecodecamp.org/t/tribute-page-your-image-should-be-centered-within-its-parent/528961?u=batoru
    
-   I don`t know what I`ve learned by this...but maybe...add another container, if you don`t know what to do? :DDD
+   I don't know what I've learned by this...but maybe...add another container, if you don`t know what to do? :DDD
